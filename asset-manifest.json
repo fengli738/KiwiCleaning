@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KiwiCleaning/static/css/main.80aa7904.chunk.css",
-    "main.js": "/KiwiCleaning/static/js/main.d5cb7126.chunk.js",
-    "main.js.map": "/KiwiCleaning/static/js/main.d5cb7126.chunk.js.map",
+    "main.js": "/KiwiCleaning/static/js/main.9f60f1b3.chunk.js",
+    "main.js.map": "/KiwiCleaning/static/js/main.9f60f1b3.chunk.js.map",
     "runtime-main.js": "/KiwiCleaning/static/js/runtime-main.6fb36b88.js",
     "runtime-main.js.map": "/KiwiCleaning/static/js/runtime-main.6fb36b88.js.map",
     "static/css/2.1a02f21c.chunk.css": "/KiwiCleaning/static/css/2.1a02f21c.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.9c447fcc.chunk.js",
     "static/css/main.80aa7904.chunk.css",
-    "static/js/main.d5cb7126.chunk.js"
+    "static/js/main.9f60f1b3.chunk.js"
   ]
 }
